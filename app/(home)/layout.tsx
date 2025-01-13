@@ -1,3 +1,5 @@
+import '../globals.css';
+
 export const metadata = {
     title: 'Home - Stuflo',
     description: 'A simple app that displays a message on button click.',
@@ -14,4 +16,3 @@ export const metadata = {
       </html>
     );
   }
-  
